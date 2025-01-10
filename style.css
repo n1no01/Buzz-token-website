@@ -44,7 +44,7 @@ h1{
 }
 
 button{
-    width: 30%;
+    width: 15%;
     margin-top: 50px;
     margin-left: 15px;
     margin-right: 15px;
@@ -91,7 +91,7 @@ button:hover{
 
     button{
         display: block;
-        width: 30%;
+        width: 40%;
         margin-top: 10px;
         margin-left: auto;
         margin-right: auto;
